@@ -476,7 +476,7 @@
                 </lord-icon>
                  LinkedIn</a>
                
-               - Si te sirvio el contenido de esta página podes inventarme un <a href="https://cafecito.app/giselemgonzalez"> <script src="https://cdn.lordicon.com/lusqsztk.js"></script>
+               - Si te sirvio el contenido de esta página podes invitarme un <a href="https://cafecito.app/giselemgonzalez"> <script src="https://cdn.lordicon.com/lusqsztk.js"></script>
                 <lord-icon
                     src="https://cdn.lordicon.com/wjwuvtno.json"
                     trigger="loop"
